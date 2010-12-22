@@ -83,3 +83,8 @@ Resource:
     various CAL modules contain derived work including:
     bin/cal/debug/CAL/Cal/Core/Prelude.cal
 License: ThirdPartyComponents/ghc/LICENSE
+
+13.  Guava: Google Core Libraries for Java release 7
+Website: http://guava-libraries.googlecode.com
+Resource: lib/Resources/External/java/guava-r07.jar
+License: ThirdPartyComponents/guava-r07.jar/LICENSE.txt
